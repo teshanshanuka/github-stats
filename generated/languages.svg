@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 82.847%;" class="progress-item"></span><span style="background-color: #555555;width: 5.343%;" class="progress-item"></span><span style="background-color: #341708;width: 4.754%;" class="progress-item"></span><span style="background-color: #89e051;width: 4.119%;" class="progress-item"></span><span style="background-color: #e16737;width: 0.883%;" class="progress-item"></span><span style="background-color: #2b7489;width: 0.731%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.565%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.266%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.248%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.224%;" class="progress-item"></span><span style="background-color: #f0a9f0;width: 0.021%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 82.857%;" class="progress-item"></span><span style="background-color: #555555;width: 5.339%;" class="progress-item"></span><span style="background-color: #341708;width: 4.751%;" class="progress-item"></span><span style="background-color: #89e051;width: 4.117%;" class="progress-item"></span><span style="background-color: #e16737;width: 0.882%;" class="progress-item"></span><span style="background-color: #2b7489;width: 0.731%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.565%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.265%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.247%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.224%;" class="progress-item"></span><span style="background-color: #f0a9f0;width: 0.021%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">82.85%</span>
+<span class="percent">82.86%</span>
 </li>
 
 
